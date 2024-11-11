@@ -1,5 +1,5 @@
 import random
-from tkinter.ttk import Treeview
+
 
 
 def random_card():
